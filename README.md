@@ -1,1 +1,1 @@
-This is a repository of IIT guwahati hackethon
+This is a repository of IIT guwahati hackathon
